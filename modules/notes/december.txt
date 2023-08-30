@@ -1,0 +1,17 @@
+Creating new course NodeJS and microservice project
+
+// const http = require('http')
+
+// const server = http.createServer((request, response) => {
+//   // request - so'rov
+//   // response - javob
+//   console.log(request.url);
+
+//   response.write("<h1>Hello World 4</h1>")
+//   response.write("<h1>Hello World 5</h1>")
+//   response.end()
+// })
+
+// server.listen(3000, () => {
+//   console.log("Server is been started on port: 3000");
+// })
